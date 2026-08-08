@@ -1,4 +1,2 @@
-# odin-testing-practice
-Practicing using tests in JS using Jest by making some functions and tests for those functions.
-
-TDD seems neat. I think I might try to use tests in the later projects to see how it will change my workflow.
+# odin-recursion
+Practice recursion by making a function that makes the fibonacci sequence and a function that merge sorts.
